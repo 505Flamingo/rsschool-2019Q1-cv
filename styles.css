@@ -15,9 +15,11 @@ header a {
 }
 
 .photo{
-
+    height: 285px;
+    width: 200px;
     background: url(https://pp.userapi.com/c10700/u16488222/-6/y_c78d232f.jpg);
-
+    background-size: 94%;
+    background-repeat: no-repeat;
 }
 
 .contacts-and-photo {
@@ -67,7 +69,7 @@ table, th, td {
     padding: 20px;
 }
 th {
-    background: #39CCCC;
+    background: #D0E4F5;
     font-size: 1.2em;
     font-weight: 800;
 }
@@ -75,7 +77,6 @@ th {
 tr:nth-child(even) {
     background: #D0E4F5;
 }
-
 
 a {
     text-decoration: none;
