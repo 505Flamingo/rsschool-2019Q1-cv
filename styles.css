@@ -1,0 +1,44 @@
+body {
+	max-width: 1024px;
+	margin: 5% auto;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #24292e;
+}
+
+
+header a {
+	text-decoration: none;
+	font-size: 2em;
+	font-weight: 600;
+	color: #0366d6;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.contacts-info li{
+    list-style-type: circle;
+}
+
+.contacts-info li a {
+    text-decoration: none;
+	font-size: 1em;
+	font-weight: 600;
+	color: #000099;
+}
+
+.contacts-info li a:hover {
+    text-decoration: underline;
+}
+
+.summary p {
+    text-indent: 1.5em;
+    text-align: justify;
+    font-size: 1.2em;
+}
